@@ -1,0 +1,31 @@
+# ❌ Виртуальное окружение Python
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# ❌ Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ❌ Логи и отладка
+logs/
+*.log
+
+# ❌ Временные папки под загрузки
+downloads/
+videos/
+
+# ❌ Модели (можно загрузить отдельно, слишком тяжелые)
+models/*.dat
+
+# ❌ Секреты и конфиги
+.env
+*.db
+
+# ❌ IDE и системные файлы
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
