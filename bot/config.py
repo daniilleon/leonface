@@ -1,6 +1,6 @@
 # bot/config.py
 
-API_TOKEN = "8189376726:AAHU-0nF4ovcDRBd84CbA3m_sjoazbJCcxg"  # ← сюда вставь свой токен
+API_TOKEN = ""  # ← сюда вставь свой токен
 DOWNLOAD_DIR = "downloads"
 ADMIN_IDS = [6670332465]  # список Telegram ID админов
 
